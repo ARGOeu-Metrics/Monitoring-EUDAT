@@ -24,7 +24,7 @@ For monitoring EUDAT we use the following list of metrics that are available in 
 [argo-probe-eudat-b2find](https://github.com/ARGOeu-Metrics/argo-probe-eudat-b2find) Monitoring metrics to check the functionality of B2FIND. B2FIND is an interdisciplinary discovery portal for research output. In this repo you will find the metrics used to check the functionalities of the service.
 
 [argo-probe-eudat-b2stage](https://github.com/ARGOeu-Metrics/argo-probe-eudat-b2stage)
-Τhis the monitoring script of B2STAGE. B2STAGE is one of the core services of the EUDAT Data Infrastructure offering functionalities for the easy transfer of data between EUDAT resources and external computational facilities.
+Τhis the monitoring script of B2STAGE. B2STAGE is one of the core services of the EUDAT Data Infrastructure offering functionalities for the easy transfer of data between EUDAT resources and external computational facilities. _(Software Depricated)_
 
 [argo-probe-eudat-gitlab](https://github.com/ARGOeu-Metrics/argo-probe-eudat-gitlab) EUDAT support gitlab. This is a metric to check the liveness of gitlab.
 
